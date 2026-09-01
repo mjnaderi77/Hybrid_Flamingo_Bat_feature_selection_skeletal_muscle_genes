@@ -1,0 +1,13 @@
+feature_selection,modes,Precision,Recall,F1 Score,F2 Score,Accuracy
+LASSO,Random_forest,1.0,1.0,1.0,1.0,
+LASSO,SVM,1.0,1.0,1.0,1.0,
+LASSO,XGBoost,0.555555556,1.0,0.714285714,0.862068966,
+Flamingo,Random_forest,0.833333333,1.0,0.909090909,0.961538462,0.9
+Flamingo,SVM,0.833333333,1.0,0.909090909,0.961538462,0.9
+Flamingo,XGBoost,0.625,1.0,0.769230769,0.892857143,0.7
+Hybrid Flamingo-Bat,Random_forest,0.714285714,1.0,0.833333333,0.925925926,0.8
+Hybrid Flamingo-Bat,SVM,1.0,1.0,1.0,1.0,1.0
+Hybrid Flamingo-Bat,XGBoost,0.625,1.0,0.769230769,0.892857143,0.7
+Bat,Random_forest,1.0,1.0,1.0,1.0,1.0
+Bat,SVM,1.0,1.0,1.0,1.0,1.0
+Bat,XGBoost,0.5555555555555556,1.0,0.7142857142857143,0.8620689655172413,0.6
