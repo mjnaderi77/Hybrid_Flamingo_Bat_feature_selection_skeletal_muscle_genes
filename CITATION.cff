@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+title: "Hybrid Flamingo-Bat Feature Selection for Resistance Exercise Transcriptomics"
+message: "Please cite the associated manuscript and repository when using these artifacts."
+type: software
+license: MIT
