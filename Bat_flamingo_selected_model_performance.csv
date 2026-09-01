@@ -1,4 +1,0 @@
-modes,Accuracy,Precision,Recall,F1 Score,F2 Score
-Random_forest,0.8,0.714285714,1,0.833333333,0.925925926
-SVM,1,1,1,1,1
-XGBoost,0.7,0.625,1,0.769230769,0.892857143
